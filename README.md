@@ -5,6 +5,10 @@ Audio Visualizer (Mic): stream real-time audio from a microphone <br/>
 Audio Visualizer - Wave (File): input wav file (get waveform) <br/>
 Audio Visualizer - Spectrum (File): input wav file (get waveform + spectrum)
 
+TO DO:
+normalize (normalize WAV file itself?)
+
+
 
 ![wave and spectrum of Ukiyo](https://user-images.githubusercontent.com/22163404/50425730-226ddd80-0842-11e9-970f-28bf74fb6f91.PNG)
 
