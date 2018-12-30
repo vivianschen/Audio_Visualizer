@@ -6,7 +6,9 @@ Audio Visualizer - Wave (File): input wav file (get waveform) <br/>
 Audio Visualizer - Spectrum (File): input wav file (get waveform + spectrum)
 
 TO DO:
-normalize - WiP
+normalize (wave: DONE) <br/>
+
+
 
 
 
