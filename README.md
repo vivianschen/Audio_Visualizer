@@ -6,7 +6,7 @@ Audio Visualizer - Wave (File): input wav file (get waveform) <br/>
 Audio Visualizer - Spectrum (File): input wav file (get waveform + spectrum)
 
 TO DO: <br/>
-- normalize - DONE <br/>
+- calibrate y-axis of wave graph - DONE <br/>
 - switch from ipynb to pyQtGraph for faster fps speed <br/>
 - create class <br/>
 
