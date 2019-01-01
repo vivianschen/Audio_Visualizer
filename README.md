@@ -22,4 +22,9 @@ TO DO: <br/>
 
 PyAudio (https://people.csail.mit.edu/hubert/pyaudio/) Examples:<br/>
 https://www.programcreek.com/python/example/52624/pyaudio.PyAudio<br/>
-https://www.swharden.com/wp/2016-07-19-realtime-audio-visualization-in-python/
+https://www.swharden.com/wp/2016-07-19-realtime-audio-visualization-in-python/ <br/>
+
+
+What are chunks, rates, samples, and frames? <br/>
+https://stackoverflow.com/questions/35970282/what-are-chunks-samples-and-frames-when-using-pyaudio
+
